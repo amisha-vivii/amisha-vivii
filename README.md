@@ -1,6 +1,6 @@
 ## Hi there 👋
  💫 About Me:
-🔭 I’m currently working on: Web development projects and improving my DSA skills<br><br>🤝 I’m looking to collaborate on: Open source projects (especially beginner-friendly)<br><br>🆘 I’m looking for help with: Advanced DSA and real-world project building<br><br>🌱 I’m currently learning: Cybersecurity, Web Development, and Problem Solving<br><br>💬 Ask me about: C, Oop,DBMS,SQL ,C++, DSA basics, or how I balance coding with college<br>
+🔭 I’m currently working on: Web development projects and improving my DSA skills<br><br>🤝 I’m looking to collaborate on: Open source projects (especially beginner-friendly)<br><br>🆘 I’m looking for help with: Advanced DSA and real-world project building<br><br>🌱 I’m currently learning: Cybersecurity, Web Development, and Problem Solving<br><br>
 
 
 ## 🌐 Socials:
